@@ -1,4 +1,5 @@
 # radio-firework-detonator
+- safely ignite fireworks with nRF24L01 based radio controlled ignitor
 
 https://github.com/user-attachments/assets/4411ac11-ea3d-4464-a301-957fe139e2e8
 
